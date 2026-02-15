@@ -1,2 +1,2 @@
-# Personal Website
-https://xxm19.github.io/
+# Usage
+bundle exec jekyll serve
