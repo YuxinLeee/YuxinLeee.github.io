@@ -4,3 +4,4 @@ bundle exec jekyll serve #在本地看
 改好后ctrlc 退出
 git add . 
 git commit -m "xx"
+git push
